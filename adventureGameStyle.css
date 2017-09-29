@@ -1,0 +1,88 @@
+body {
+    background-color: mediumaquamarine;
+}
+
+.paragraph {
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.links {
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+    margin-left: 450px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-style: double;
+    background-color: darkturquoise;
+}
+
+.container {
+    text-align: center;
+}
+
+.prompt {
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.wrap1 {
+    display: inline-block;
+    padding-right: 30px;
+    padding-left: 25px;
+}
+
+.wrap2 {
+    display: inline-block;
+}
+
+.wrap3 {
+    display: inline-block;
+}
+
+.wrap4 {
+    display: inline-block;
+}
+
+.text1 {
+    font-size: 15px;
+    font-family: fantasy;
+    padding-left: 10px;
+}
+
+.text2 {
+    font-size: 15px;
+    font-family: fantasy;
+}
+
+.text3 {
+    font-size: 15px;
+    font-family: fantasy;
+}
+
+.text4 {
+    font-size: 15px;
+    font-family: fantasy;
+}
+
+.image1 {
+    height:250px;
+    width: 250px;
+}
+
+.image2 {
+    height:250px;
+    width: 250px;
+}
+
+.image3 {
+    height:250px;
+    width: 250px;
+}
+
+.image4 {
+    height:250px;
+    width: 250px;
+}
